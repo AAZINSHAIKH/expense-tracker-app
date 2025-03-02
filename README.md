@@ -29,16 +29,21 @@ Follow these steps to run the app on your system:
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/AAZINSHAIKH/expense-tracker-app.git```
+git clone https://github.com/AAZINSHAIKH/expense-tracker-app.git
+```
 
-### 2. Navigate into the Project Folder
+
+ ### 2. Navigate into the Project Folder
 ```bash
-cd expense-tracker-app```
+cd expense-tracker-app
+```
 
 ### 3. Install Dependencies
 ```bash
-npm install```
+npm install
+```
 
 ### 4. Start the App
 ```bash
-npx expo start```
+npx expo start
+```
