@@ -19,11 +19,6 @@ A simple React Native Expense Tracker app built using AsyncStorage for local dat
 
 ---
 
-## Screenshots  
-(Add screenshots of your app running here)  
-
----
-
 ## How to Run the App
 Follow these steps to run the app on your system:
 
